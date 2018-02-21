@@ -1,0 +1,1062 @@
+fileFormatVersion: 2
+guid: 68b4b51c61aadc94184abeeb144f502e
+timeCreated: 1518464940
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_0
+    21300002: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_1
+    21300004: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_2
+    21300006: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_3
+    21300008: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_4
+    21300010: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_5
+    21300012: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_6
+    21300014: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_7
+    21300016: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_8
+    21300018: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_9
+    21300020: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_10
+    21300022: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_11
+    21300024: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_12
+    21300026: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_13
+    21300028: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_14
+    21300030: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_15
+    21300032: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_16
+    21300034: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_17
+    21300036: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_18
+    21300038: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_19
+    21300040: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_20
+    21300042: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_21
+    21300044: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_22
+    21300046: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_23
+    21300048: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_24
+    21300050: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_25
+    21300052: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_26
+    21300054: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_27
+    21300056: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_28
+    21300058: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_29
+    21300060: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_30
+    21300062: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_31
+    21300064: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_32
+    21300066: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_33
+    21300068: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_34
+    21300070: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_35
+    21300072: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_36
+    21300074: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_37
+    21300076: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_38
+    21300078: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_39
+    21300080: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_40
+    21300082: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_41
+    21300084: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_42
+    21300086: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_43
+    21300088: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_44
+    21300090: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_45
+    21300092: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_46
+    21300094: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_47
+    21300096: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_48
+    21300098: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_49
+    21300100: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_50
+    21300102: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_51
+    21300104: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_52
+    21300106: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_53
+    21300108: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_54
+    21300110: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_55
+    21300112: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_56
+    21300114: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_57
+    21300116: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_58
+    21300118: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_59
+    21300120: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_60
+    21300122: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_61
+    21300124: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_62
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7688
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 7688
+        width: 472
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_2
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 7688
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_3
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 7688
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_4
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 7688
+        width: 472
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_5
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 7688
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6926
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 6926
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_8
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 6926
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_9
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 6926
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_10
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 6926
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_11
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 6926
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6163
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 6163
+        width: 468
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_14
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 6163
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_15
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 6163
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_16
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 6163
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_17
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 6163
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5400
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 5400
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_20
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 5400
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_21
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 5400
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_22
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 5400
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_23
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 5400
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4637
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 4637
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_26
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 4637
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_27
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 4637
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_28
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 4637
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_29
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 4637
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3874
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_31
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 3874
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_32
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3874
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_33
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 3874
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_34
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 3874
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_35
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 3874
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3111
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_37
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3108
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_38
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3111
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_39
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 3111
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_40
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 3111
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_41
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 3111
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2348
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_43
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2348
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_44
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2348
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_45
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2348
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_46
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 2348
+        width: 472
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_47
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 2348
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1585
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_49
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1585
+        width: 468
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_50
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1585
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_51
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1585
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_52
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1585
+        width: 468
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_53
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1585
+        width: 471
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 822
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_55
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 822
+        width: 468
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_56
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 822
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_57
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 822
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_58
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 822
+        width: 468
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_59
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 822
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_61
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 59
+        width: 472
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite-Sheet-Allegheny-National-Forest-Starter-Deck_62
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 59
+        width: 471
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
